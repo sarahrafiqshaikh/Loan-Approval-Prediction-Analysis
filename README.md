@@ -19,6 +19,9 @@ The dataset used is the [Loan Approval Prediction Dataset](https://www.kaggle.co
   - `loan_approval_analysis.ipynb`: Jupyter notebook containing the full analysis
   - `loan_approval_summary.docx`: Word document summarizing the results
   - `README.md`: This file, providing an overview of the project
+  - `loan_approval_prediction.html`: This file, providing quick overview at glance of the dataset
+  - `loan_approval_dataset.csv`: This file, providing dataset of the project
+
 
 ## Key Steps
 #### 1. Data Cleaning
