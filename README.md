@@ -21,26 +21,26 @@ The dataset used is the [Loan Approval Prediction Dataset](https://www.kaggle.co
   - `README.md`: This file, providing an overview of the project
 
 ## Key Steps
-1. Data Cleaning
+#### 1. Data Cleaning
    - Checked for and handled missing values
    - Removed unnecessary spaces in column names and values
    - Dropped irrelevant columns
 
-2. Exploratory Data Analysis (EDA)
+#### 2. Exploratory Data Analysis (EDA)
    - Generated descriptive statistics
    - Analyzed correlations between features
    - Identified key patterns in the data
 
-3. Outlier Detection and Treatment
+#### 3. Outlier Detection and Treatment
    - Used IQR method to detect outliers
    - Applied capping to treat outliers
 
-4. Data Splitting and Model Training
+#### 4. Data Splitting and Model Training
    - Manually split data into 80% training and 20% testing sets
    - Performed feature scaling
    - Trained KNN model and implemented cross-validation
 
-5. Model Evaluation
+#### 5. Model Evaluation
    - Evaluated model using accuracy, precision, recall, F1-score, and ROC-AUC
    - Compared results from manual split with cross-validation
 
