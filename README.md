@@ -86,5 +86,5 @@ The dataset used is the [Loan Approval Prediction Dataset](https://www.kaggle.co
 3. Open and run `loan_approval_analysis.ipynb` in Jupyter Notebook or JupyterLab
 
 ## Author
-[Sarah Rafiq Shaikh]
+#### Sarah Rafiq Shaikh
 
